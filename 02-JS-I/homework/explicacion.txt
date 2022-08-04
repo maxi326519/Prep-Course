@@ -1,0 +1,18 @@
+VARIABLES:
+    Las variables son espacios en memoria que se utilizan para guardar datos de relevancia para nuestro programa, pueden contener diferentes tipos de datos
+    como cadenas de texto y cualquier numero
+
+STRINGS:
+    Estos son las cadenas de texto que se almacenan en las varibales, y son uno de los tipos de variables nombrados anteriormente
+
+FUNCIONES:
+    Estos son objetos que se encargan de realizar una serie de tareas especificadas en otro bloque, y pueden o no retornar algun valor. Suelen llamarse
+    en algun punto del codigo para ejecutar un conjunto de algoritmos especificos con o sin parametros que pueden ser enviados entre los parentesis
+
+DECLARACIONES IF:
+    Este es uno de los operadores logicos, en este caso uno de comparacion se encarga de ejecutar una linea de codigo distinta en cas de que se cumpla o no una
+    condicion especificada entre los parentesis
+
+VALORES BOOLEANOS:
+    Estos valores se utilizan para definir si algo es verdadero o falso, y por detras "true" es igual a 1 y "false" es igual a 0, y suelen utilizarse en
+    los operadores logicos para comparar resultados o en funciones para devolver con return
