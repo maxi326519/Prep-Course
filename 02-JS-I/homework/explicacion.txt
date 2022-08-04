@@ -10,7 +10,7 @@ FUNCIONES:
     en algun punto del codigo para ejecutar un conjunto de algoritmos especificos con o sin parametros que pueden ser enviados entre los parentesis
 
 DECLARACIONES IF:
-    Este es uno de los operadores logicos, en este caso uno de comparacion se encarga de ejecutar una linea de codigo distinta en cas de que se cumpla o no una
+    Estos son los operadores de comparacion, en este caso uno de comparacion se encarga de ejecutar una linea de codigo distinta en cas de que se cumpla o no una
     condicion especificada entre los parentesis
 
 VALORES BOOLEANOS:
